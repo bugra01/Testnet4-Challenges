@@ -1,4 +1,4 @@
-nodeid:<replace this text with the nodeid>
-bakerid:<replace this text with the bakerid>
-accountaddress:<replace this text with the account address>
-blockhash_addbaker:<replace this text with the blockhash of the block with the add baker transaction in it>
+nodeid:d9ad4aad78f0cff0
+bakerid:5798
+accountaddress:3UwjTxhJgCBdMjkaD89GE4Rt6VoW7HadShE325fK1ufVdZCisK
+blockhash_addbaker:3abc2d8b74af535f89db88fd4d3af69c1303bc01d3e5830028ec957f822bc9d2
